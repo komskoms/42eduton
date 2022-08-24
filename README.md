@@ -10,6 +10,8 @@ http://10.19.226.170
 
 ---
 
+![에듀톤 사진](https://user-images.githubusercontent.com/65284056/186495206-3f1a6c53-d7a8-43cf-8be3-c5a1eb29b094.jpeg)
+
 TEAM
 
 강성현@sgang
